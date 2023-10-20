@@ -1,0 +1,538 @@
+	@media (min-width: 990px) {
+		.mar {
+			margin-left: 205px;
+		}
+
+		.w50 {
+			width: 50%;
+		}
+	}
+
+	@media (max-width: 990px) and (min-width: 930px){
+		.mar {
+			margin-left: 240px;
+		}
+	}
+
+	@media (max-width: 930px) and (min-width: 822px) {
+		.mar {
+			margin-left: 210px;
+		}
+	}
+
+	@media (max-width: 820px) and (min-width: 768px) {
+		.mar {
+			margin-left: 200px;
+		}
+
+
+
+	}
+
+	@media (max-width: 767px) and (min-width: 670px) {
+		.pad {
+		/*	padding: 10px 50px 10px 50px;
+		*/width: 200px;
+   }
+
+   .par {
+    margin-right: 50px;
+    /*width: 200px;*/
+  }
+}
+
+@media (max-width: 675px) and (min-width: 660px){
+	.pad {
+		/*padding: 10px 45px 10px 45px;*/
+		width: 180px;
+		/*margin-right: 7px;*/
+	}	
+
+	.par {
+		margin-right: 45px;
+	}
+
+}
+
+@media (max-width: 660px) and (min-width: 601px) {
+	.pad {
+		width: 180px;
+		padding: 2px 30px 2px 30px;
+	}
+
+
+	.par {
+		margin-right: 45px;
+	}
+
+}
+
+/*@media (max-width: 600px) and (min-width: 599px) {
+	.pad {
+		width: 180px;
+		padding: 2px 30px 2px 30px;
+	}
+
+	.par {
+		margin-right: 35px;
+	}
+
+}*/
+
+@media (max-width: 1305px) {
+  .timeline-step::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 31%;
+    height: 100%;
+    width: 2px;
+    background-color: #ccc;
+  }
+
+  .right {
+    margin-left: 400px;
+  }
+
+}
+
+
+@media (max-width: 1260px) {
+  .timeline-step::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 33%;
+    height: 100%;
+    width: 2px;
+    background-color: #ccc;
+  }
+
+  .right {
+    margin-left: 390px;
+  }
+
+  @media (max-width: 1180px) {
+    .timeline-step::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 34%;
+      height: 100%;
+      width: 2px;
+      background-color: #ccc;
+    }
+
+    .right {
+      margin-left: 380px;
+    }
+
+    @media (max-width: 1150px) {
+      .timeline-step::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 35%;
+        height: 100%;
+        width: 2px;
+        background-color: #ccc;
+      }
+
+      .right {
+        margin-left: 370px;
+      }
+
+      @media (max-width: 1120px) {
+        .timeline-step::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 36%;
+          height: 100%;
+          width: 2px;
+          background-color: #ccc;
+        }
+
+        .right {
+          margin-left: 360px;
+        }
+
+        @media (max-width: 1085px) {
+          .timeline-step::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 37%;
+            height: 100%;
+            width: 2px;
+            background-color: #ccc;
+          }
+
+          .right {
+            margin-left: 360px;
+          }
+
+          @media (max-width: 1060px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 38%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 350px;
+            }
+          }
+
+          @media (max-width: 1035px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 39%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 340px;
+            }
+          }
+
+          @media (max-width: 1010px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 40%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 330px;
+            }
+          }
+
+          @media (max-width: 985px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 41%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 320px;
+            }
+          }
+
+          @media (max-width: 960px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 42%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 310px;
+            }
+          }
+
+          @media (max-width: 935px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 43%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 300px;
+            }
+          }
+
+          @media (max-width: 915px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 44%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 290px;
+            }
+          }
+
+          @media (max-width: 900px) and (min-width:668px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 45%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 280px;
+            }
+          }
+
+          @media (max-width: 880px) and (min-width: 768px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 46%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+
+            .right {
+              margin-left: 195px;
+            }
+
+          }
+
+          @media (max-width: 860px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 47%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+          }
+
+          @media (max-width: 845px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 48%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+          }
+
+          @media (max-width: 825px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 48%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+
+
+          }
+
+          @media (max-width: 820px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 49%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+          }
+
+          @media (max-width: 805px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 50%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+          }
+
+          @media (max-width: 790px) and (min-width: 768px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 52%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+          }
+
+          @media (max-width: 768px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-right: 20px;
+            }
+
+          }
+
+          @media (max-width: 696px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-right: 0;
+              margin-left: 220px;
+            }
+
+          }
+
+          @media (max-width: 667px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-right: 0px;
+            }
+
+          }
+
+          @media (max-width: 657px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 200px;
+            }
+
+          }
+
+          @media (max-width: 597px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 190px;
+            }
+
+          }
+
+          @media (max-width: 586px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 180px;
+              margin-right: 0px;
+            }
+
+          }
+
+          @media (max-width: 576px) {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 170px;
+              margin-right: 0px;
+            }
+
+          }
+
+          @media (max-width: 566px)  {
+            .timeline-step::before {
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 522%;
+              height: 100%;
+              width: 2px;
+              background-color: #ccc;
+            }
+
+            .right {
+              margin-left: 20px;
+              margin-right: 0px;
+            }
+
+          }

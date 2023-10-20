@@ -1,0 +1,46 @@
+/* Animation */
+@keyframes kanan {
+	36% {
+		transform: rotate(36deg);
+	}
+
+}
+
+@keyframes kiri {
+	36% {
+		transform: rotate(-36deg);
+	}
+}
+
+@keyframes bayanganMasuk {
+	100% {
+		box-shadow: 0.5px 0.4px 5px gray;	
+	}
+}
+
+@keyframes bayanganKeluar {
+	100% {
+		box-shadow: 85px 85px 10px gray; 
+	}
+}
+
+.kanan {
+	animation: kanan 1s ease-in-out;
+}
+
+.kiri {
+	animation: kiri 1s ease-in-out;
+}
+
+#signIn {
+	box-shadow: 0.5px 0.4px 5px gray;
+}
+
+.bayanganMasuk {
+	animation: bayanganMasuk 1s ease-in-out forwards;
+}
+
+
+.bayanganKeluar {
+	animation: bayanganKeluar 1s ease-in-out forwards;
+}
