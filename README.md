@@ -4,6 +4,8 @@
 
 Aplikasi ini dibuat dengan Framework PHP (Laravel).
 
+## Tampilan Game
+
 ## Fitur - Fitur
 - Login
 - Registrasi
