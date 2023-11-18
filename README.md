@@ -4,7 +4,9 @@
 
 Aplikasi ini dibuat dengan Framework PHP (Laravel).
 
-## Tampilan Game
+## Tampilan Website
+<img src="./Demo.jpeg" width="100%" height="500" />
+
 
 ## Fitur - Fitur
 - Login
